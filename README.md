@@ -6,6 +6,7 @@ Teach your AI agent to use Binance — trading, market data, and on-chain wallet
 
 - **Never connected an agent before?** → [First-time setup, step by step](docs/01-first-time-setup.md) — account, KYC, Node.js, client install, MCP connect, wallet sign-in, rules, first commands, with a checkpoint at every step.
 - **Want to hunt free mints?** → [Hunting free mints with your agent](docs/02-hunting-free-mints.md) — the free-only playbook: verify on-chain before minting, gas cap, rarity before selling, red flags, and copy-paste agent prompts.
+- **Want the agent that built this guide?** → [Try Muse — invite code + benefits](docs/try-muse.md) — join with code `P22L0X` and you both get 1 billion Muse tokens when you redeem within 48 hours of joining.
 
 There are **two official routes**, and they do different things:
 
